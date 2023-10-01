@@ -16,8 +16,8 @@ Welcome to my profile. There are a few things you can see here, but just make su
 
 ### ⚙️ &nbsp;Tech Stack
 
-![Node.js](https://img.shields.io/badge/-Node.js-555?style=for-the-badge&logo=node.js&labelColor=001337)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-555?style=for-the-badge&logo=javascript&labelColor=001337)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-555?style=for-the-badge&logo=node.js&labelColor=001337)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-555?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=001337)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-555?style=for-the-badge&logo=HTML5&labelColor=001337)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-555?style=for-the-badge&logo=php&labelColor=001337)&nbsp;
