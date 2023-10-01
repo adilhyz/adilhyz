@@ -14,7 +14,7 @@ Welcome to my profile. There are a few things you can see here, but just make su
 - ☕ Terminal: my home icy companion
 - 🐧 Linux on the Rocks
 
-### ⚙️ &nbsp;Tech Stack...
+### ⚙️ &nbsp;Tech Stack
 
 ![Node.js](https://img.shields.io/badge/-Node.js-555?style=for-the-badge&logo=node.js&labelColor=001337)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-555?style=for-the-badge&logo=javascript&labelColor=001337)&nbsp;
