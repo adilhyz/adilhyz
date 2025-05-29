@@ -6,7 +6,7 @@
 
 ## Import My Public Keys
 
-```bash
+```
 $ curl -s https://github.com/adilhyz.gpg | gpg --import
 ```
 
