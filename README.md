@@ -1,16 +1,14 @@
-## Import My Public Keys
-
-```bash
-$ curl -s https://github.com/adilhyz.gpg | gpg --import
-```
-
----
-
 ## About Me
 
 - 🎧 Chillin' with `Pixels`
 - 👾 Dim not extinguished
 - 💬 Linux on the Rocks
+
+## Import My Public Keys
+
+```bash
+$ curl -s https://github.com/adilhyz.gpg | gpg --import
+```
 
 ### ⚙️ &nbsp;Tech Stack
 
