@@ -12,21 +12,20 @@ $ curl -s https://github.com/adilhyz.gpg | gpg --import
 
 ### ⚙️ &nbsp;Tech Stack
 
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-555?style=social&logo=arch-linux&labelColor=%239a9cc)&nbsp;
-![SublimeText](https://img.shields.io/badge/Sublime%20Text-555?style=social&logo=sublime%20text&labelColor=%239a9cc&logoColor=%23FF9800)&nbsp;
-![Neovim](https://img.shields.io/badge/Neovim-555?&style=social&logo=neovim&labelColor=%239a9cc)&nbsp;
-![Git](https://img.shields.io/badge/-Git-555?style=social&logo=git&labelColor=%239a9cc)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-555?style=social&logo=javascript&labelColor=%239a9cc&logoColor=%23F7DF1E)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-555?style=social&logo=node.js&labelColor=%239a9cc)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-555?style=social&logo=CSS3&logoColor=blue&labelColor=%239a9cc)&nbsp;
-![MARKDOWN](https://img.shields.io/badge/-Markdown-555?style=social&logo=Markdown&labelColor=%239a9cc&logoColor=%23ef242a)&nbsp;
-![TOML](https://img.shields.io/badge/-Toml-555?style=social&logo=Toml&labelColor=%239a9cc&logoColor=%23C4121)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-555?style=social&logo=HTML5&labelColor=%239a9cc)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-555?style=social&logo=php&labelColor=%239a9cc)&nbsp;
-![LUA](https://img.shields.io/badge/Lua-555?style=social&logo=lua&labelColor=%239a9cc&logoColor=%232C2D72)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-555?style=social&logo=laravel&labelColor=%239a9cc)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-555?style=social&logo=bootstrap&labelColor=%239a9cc)&nbsp;
-![Hugo](https://img.shields.io/badge/Hugo-555?style=social&logo=hugo&labelColor=%239a9cc)&nbsp;
+![Arch Linux](https://skillicons.dev/icons?i=arch)&nbsp;
+![SublimeText](https://skillicons.dev/icons?i=sublime)&nbsp;
+![Neovim](https://skillicons.dev/icons?i=neovim)&nbsp;
+![Git](https://skillicons.dev/icons?i=git)&nbsp;
+![JavaScript](https://skillicons.dev/icons?i=javascript)&nbsp;
+![Node.js](https://skillicons.dev/icons?i=nodejs)&nbsp;
+![CSS](https://skillicons.dev/icons?i=css)&nbsp;
+![MARKDOWN](https://skillicons.dev/icons?i=markdown)&nbsp;
+![HTML](https://skillicons.dev/icons?i=html)&nbsp;
+![PHP](https://skillicons.dev/icons?i=php)&nbsp;
+![Laravel](https://skillicons.dev/icons?i=laravel)&nbsp;
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)&nbsp;
+![LUA](https://skillicons.dev/icons?i=lua)&nbsp;
+![Bash](https://skillicons.dev/icons?i=bash)&nbsp;
 
 
 <p align="center">
@@ -45,7 +44,7 @@ $ curl -s https://github.com/adilhyz.gpg | gpg --import
 <!-- grid-snake
 ### 📈 Github Activity Graph
 -->
-![](https://github.com/adilhyz/adilhyz/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/adilhyz/adilhyz/blob/output/github-contribution-grid-snake.svg)
 
 <!--### 📈 &nbsp;GitHub Stats:
 <p align=center>
