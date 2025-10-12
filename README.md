@@ -14,6 +14,7 @@ $ curl -s https://github.com/adilhyz.gpg | gpg --import
 
 ![Arch Linux](https://skillicons.dev/icons?i=arch)&nbsp;
 ![SublimeText](https://skillicons.dev/icons?i=sublime)&nbsp;
+![SublimeText](https://skillicons.dev/icons?i=vscode)&nbsp;
 ![Neovim](https://skillicons.dev/icons?i=neovim)&nbsp;
 ![Git](https://skillicons.dev/icons?i=git)&nbsp;
 ![JavaScript](https://skillicons.dev/icons?i=javascript)&nbsp;
