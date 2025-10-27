@@ -14,18 +14,18 @@ $ curl -s https://github.com/adilhyz.gpg | gpg --import
 
 ![Arch Linux](https://skillicons.dev/icons?i=arch)&nbsp;
 ![SublimeText](https://skillicons.dev/icons?i=sublime)&nbsp;
-![SublimeText](https://skillicons.dev/icons?i=vscode)&nbsp;
-![Neovim](https://skillicons.dev/icons?i=neovim)&nbsp;
+![Vscode](https://skillicons.dev/icons?i=vscode)&nbsp;
 ![Git](https://skillicons.dev/icons?i=git)&nbsp;
-![JavaScript](https://skillicons.dev/icons?i=javascript)&nbsp;
-![Node.js](https://skillicons.dev/icons?i=nodejs)&nbsp;
-![CSS](https://skillicons.dev/icons?i=css)&nbsp;
-![MARKDOWN](https://skillicons.dev/icons?i=markdown)&nbsp;
+![Neovim](https://skillicons.dev/icons?i=neovim)&nbsp;
 ![HTML](https://skillicons.dev/icons?i=html)&nbsp;
+![CSS](https://skillicons.dev/icons?i=css)&nbsp;
+![JavaScript](https://skillicons.dev/icons?i=javascript)&nbsp;
 ![PHP](https://skillicons.dev/icons?i=php)&nbsp;
-![Laravel](https://skillicons.dev/icons?i=laravel)&nbsp;
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)&nbsp;
+![MARKDOWN](https://skillicons.dev/icons?i=markdown)&nbsp;
 ![LUA](https://skillicons.dev/icons?i=lua)&nbsp;
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)&nbsp;
+![Node.js](https://skillicons.dev/icons?i=nodejs)&nbsp;
+![Laravel](https://skillicons.dev/icons?i=laravel)&nbsp;
 ![Bash](https://skillicons.dev/icons?i=bash)&nbsp;
 
 
