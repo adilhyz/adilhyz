@@ -38,7 +38,7 @@ $ curl -s https://github.com/adilhyz.gpg | gpg --import
   <!--img src="https://moe-counter.glitch.me/get/@adilhyz?theme=rule34"><br/><br/-->
   <!--img src="https://img.shields.io/badge/me@gmail.com-001337?logo=gmail&logoColor=white&style=for-the-badge&logoColor=red&labelColor=555"-->
   <a href="https://adilhyz.github.io">
-    <img src="https://img.shields.io/badge/Blog-Adilhyz-001337?logo=ghost&style=social&logoColor=cyan&labelColor=555"/>
+    <img src="https://img.shields.io/badge/Blog-About-001337?logo=ghost&style=social&logoColor=cyan&labelColor=555"/>
   </a>
 </p>
 
