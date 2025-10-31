@@ -19,13 +19,14 @@ $ curl -s https://github.com/adilhyz.gpg | gpg --import
 ![Neovim](https://skillicons.dev/icons?i=neovim)&nbsp;
 ![HTML](https://skillicons.dev/icons?i=html)&nbsp;
 ![CSS](https://skillicons.dev/icons?i=css)&nbsp;
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)&nbsp;
 ![JavaScript](https://skillicons.dev/icons?i=javascript)&nbsp;
+![ExpressJS](https://skillicons.dev/icons?i=expressjs)&nbsp;
+![Node.js](https://skillicons.dev/icons?i=nodejs)&nbsp;
 ![PHP](https://skillicons.dev/icons?i=php)&nbsp;
+![Laravel](https://skillicons.dev/icons?i=laravel)&nbsp;
 ![MARKDOWN](https://skillicons.dev/icons?i=markdown)&nbsp;
 ![LUA](https://skillicons.dev/icons?i=lua)&nbsp;
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)&nbsp;
-![Node.js](https://skillicons.dev/icons?i=nodejs)&nbsp;
-![Laravel](https://skillicons.dev/icons?i=laravel)&nbsp;
 ![Bash](https://skillicons.dev/icons?i=bash)&nbsp;
 
 
