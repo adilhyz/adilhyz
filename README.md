@@ -1,42 +1,62 @@
-<p align="center">   
-  <img src="https://moe-counter.glitch.me/get/@adilhyz?theme=rule34"><br/><br/>
-  <!--img src="https://img.shields.io/badge/me@gmail.com-001337?logo=gmail&logoColor=white&style=for-the-badge&logoColor=red&labelColor=555"-->
-  <a href="https://adilhyz.github.io">
-    <img src="https://img.shields.io/badge/Blog-Adilhyz-001337?logo=ghost&style=for-the-badge&logoColor=cyan&labelColor=555"/>
-  </a>
-</p>
+## About Me
 
-### Hai 👋, I'm Sanrei
+- 🎧 Chillin' with `Pixels`
+- 👾 Dim not extinguished
+- 💬 Linux on the Rocks
 
-Welcome to my profile. There are a few things you can see here, but just make sure you've taken something to drink beforehand from the fridge.
+## Import My Public Keys
 
-  - 🎧 Chillin' with `Pixels` and `</>`
-- ☕ Terminal: my home icy companion
-- 🐧 Linux on the Rocks
+```
+$ curl -s https://github.com/adilhyz.gpg | gpg --import
+```
 
 ### ⚙️ &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-555?style=for-the-badge&logo=javascript&labelColor=001337)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-555?style=for-the-badge&logo=node.js&labelColor=001337)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-555?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=001337)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-555?style=for-the-badge&logo=HTML5&labelColor=001337)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-555?style=for-the-badge&logo=php&labelColor=001337)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-555?style=for-the-badge&logo=bootstrap&labelColor=001337)&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-555?style=for-the-badge&logo=markdown&logoColor=red&labelColor=001337)&nbsp;
-![Hugo](https://img.shields.io/badge/Hugo-555?style=for-the-badge&logo=hugo&labelColor=001337)&nbsp;\
-![Windows](https://img.shields.io/badge/Windows-555?style=for-the-badge&logo=windows&logoColor=blue&labelColor=001337)&nbsp;
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-555?style=for-the-badge&logo=arch-linux&labelColor=001337)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-555?style=for-the-badge&logo=ubuntu&labelColor=001337)&nbsp;
-![VScode](https://img.shields.io/badge/VSCode-555?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue&labelColor=001337)&nbsp;
-![SublimeText](https://img.shields.io/badge/Sublime%20Text-555?style=for-the-badge&logo=sublime%20text&labelColor=001337)&nbsp;
-![Neovim](https://img.shields.io/badge/Neovim-555?&style=for-the-badge&logo=neovim&labelColor=001337)&nbsp;
-![Git](https://img.shields.io/badge/-Git-555?style=for-the-badge&logo=git&labelColor=001337)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-555?style=for-the-badge&logo=heroku&logoColor=%235b27b4&labelColor=001337)&nbsp;
+![Arch Linux](https://skillicons.dev/icons?i=arch)&nbsp;
+![SublimeText](https://skillicons.dev/icons?i=sublime)&nbsp;
+![Vscode](https://skillicons.dev/icons?i=vscode)&nbsp;
+![Git](https://skillicons.dev/icons?i=git)&nbsp;
+![Neovim](https://skillicons.dev/icons?i=neovim)&nbsp;
+![HTML](https://skillicons.dev/icons?i=html)&nbsp;
+![CSS](https://skillicons.dev/icons?i=css)&nbsp;
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)&nbsp;
+![JavaScript](https://skillicons.dev/icons?i=javascript)&nbsp;
+![ExpressJS](https://skillicons.dev/icons?i=expressjs)&nbsp;
+![Node.js](https://skillicons.dev/icons?i=nodejs)&nbsp;
+![PHP](https://skillicons.dev/icons?i=php)&nbsp;
+![Laravel](https://skillicons.dev/icons?i=laravel)&nbsp;
+![MARKDOWN](https://skillicons.dev/icons?i=markdown)&nbsp;
+![LUA](https://skillicons.dev/icons?i=lua)&nbsp;
+![Bash](https://skillicons.dev/icons?i=bash)&nbsp;
 
-<!-- grid-snake -->
+
+<p align="center">
+    <img align src="https://discord.c99.nl/widget/theme-4/874129346376392734.png">
+    <!--img align src="https://lanyard.cnrad.dev/api/874129346376392734?theme=dark&bg=161a22&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=%20⌨%20AFK..."-->
+</p>
+
+<p align="center">   
+  <!--img src="https://moe-counter.glitch.me/get/@adilhyz?theme=rule34"><br/><br/-->
+  <!--img src="https://img.shields.io/badge/me@gmail.com-001337?logo=gmail&logoColor=white&style=for-the-badge&logoColor=red&labelColor=555"-->
+  <a href="https://adilhyz.github.io">
+    <img src="https://img.shields.io/badge/Blog-About-001337?logo=ghost&style=social&logoColor=cyan&labelColor=555"/>
+  </a>
+</p>
+
+<!-- grid-snake
 ### 📈 Github Activity Graph
+-->
+![snake](https://github.com/adilhyz/adilhyz/blob/output/github-contribution-grid-snake.svg)
 
-![](https://github.com/adilhyz/adilhyz/blob/output/github-contribution-grid-snake.svg)
+<!--### 📈 &nbsp;GitHub Stats:
+<p align=center>
+<a href="https://github.com/adilhyz">
+<img src="https://github-readme-stats.vercel.app/api?username=adilhyz&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="355em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilhyz&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="280em"><br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=AlyaKagerou&theme=algolia&no-frame=false&no-bg=true&margin-w=4">
+</a>
+</p>
+-->
 
 <!--div>
 Here are some parrots🦜
@@ -64,4 +84,4 @@ Here are some parrots🦜
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/matrixparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/deployparrot.gif" width="30" height="30"/>
-</div-->
+</div>
